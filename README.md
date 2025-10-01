@@ -35,32 +35,32 @@ Linked List is like a chain where each link points to the next one. We use it to
 ### Option 1: View All Books (BST In-Order Traversal)
 *[Insert screenshot showing sorted books displayed using BST in-order traversal]*
 
-![Option 1 Demo](screenshots/View All Books.png)
+![Option 1 Demo](screenshots/View%20All%20Books.png)
 
 ### Option 2: Add New Book (BST Insert Operation)
 *[Insert screenshot showing book addition process and BST insertion]*
 
-![Option 2 Demo](screenshots/Add New Book.png)
+![Option 2 Demo](screenshots/Add%20New%20Book.png)
 
 ### Option 3: Borrow Book (Queue Enqueue Operation)
 *[Insert screenshot showing successful borrowing and queue enqueue when book unavailable]*
 
-![Option 3 Demo](screenshots/Borrow Book.png)
+![Option 3 Demo](screenshots/Borrow%20Book.png)
 
 ### Option 4: Return Book (Stack Push + Auto Queue Processing)
 *[Insert screenshot showing book return, stack operation, and automatic queue processing]*
 
-![Option 4 Demo](screenshots/Return Book.png)
+![Option 4 Demo](screenshots/Return%20Book.png)
 
 ### Option 5: Process Borrow Requests (Queue Dequeue + Book Issuing)
 *[Insert screenshot showing dequeue operation with actual book issuing simulation]*
 
-![Option 5 Demo](screenshots/Process Borrow Requests.png)
+![Option 5 Demo](screenshots/Process%20Borrow%20Requests.png)
 
 ### Option 6: View Returned Books (Stack LIFO Display)
 *[Insert screenshot showing returned books in LIFO order from stack]*
 
-![Option 6 Demo](screenshots/View Returned Books.png)
+![Option 6 Demo](screenshots/View%20Returned%20Books.png)
 
 ## 🚀 How to Run
 
